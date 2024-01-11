@@ -1,0 +1,43 @@
+body {
+    background-color: #A6A6A6;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border: 8px solid #3D2018;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #3D2018;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: #3D2018;
+    text-decoration: underline;
+    text-shadow: 3px 2px 4px #3D2018;
+}
+
+h3 {
+    font-size: 25px;
+    color: #3D2018;
+    font-style: italic;
+}
+
+li,
+p {
+    font-size: 15px;
+    color: black;
+}
+
+.homelist {
+    font-size: 20px;
+    font-weight: bold;
+}
